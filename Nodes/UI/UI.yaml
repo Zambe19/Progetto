@@ -321,4 +321,17 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 30.0
+  - Name: Panel1
+    Type: Panel
+    Children:
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 300.0
+    - Name: Height
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 300.0
 - File: Screens/Screens.yaml
