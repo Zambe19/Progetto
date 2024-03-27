@@ -35,15 +35,19 @@ Project:
    Uri: 'urn:FTOptix:OPCUAServer'
    Module: FTOptix.OPCUAServer
    Version: 1.1
+  9:
+   Uri: 'urn:FTOptix:Alarm'
+   Module: FTOptix.Alarm
+   Version: 2.0
  Statistics:
-  TotalNodeCount: 162
-  Objects: 77
+  TotalNodeCount: 166
+  Objects: 78
   ObjectTypes: 1
-  Variables: 84
+  Variables: 87
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
-  References: 1
+  References: 4
   ReferenceTypes: 0
   Files: 20
  Nodes:
